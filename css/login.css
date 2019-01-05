@@ -1,0 +1,29 @@
+.xyl_hl {
+    margin-bottom: 14px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #475966;
+}
+.xyl_gn {
+    font-size: 14px;
+    padding-bottom: 0;
+    display: inline-block;
+    width: 140px;
+    text-align: center;
+    cursor: pointer;
+}
+.xyl_ga {
+    font-size: 14px;
+    padding-bottom: 0;
+    display: inline-block;
+    width: 140px;
+    text-align: center;
+    cursor: pointer;
+}
+.dj {
+    color: #1687d9;
+    border-bottom: 2px solid #1687d9;
+}
+.h511 {
+    height: 400px;
+}

@@ -1,0 +1,275 @@
+.ww{
+    width: 850px;
+    margin: auto;
+    padding-top: 50px;
+}
+.yimgshow {
+    margin-top: 20px;
+    width: 500px;
+    height: 500px;
+    background-color: #fbfbfb;
+    overflow: hidden;
+}
+.yimgshow ul {
+    position: relative;
+}
+.yimgshow li {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 500px;
+}
+.yimgshow li img {
+    width: 500px;
+}
+.smallimg {
+    margin-top:10px;
+    text-align: center;
+}
+.smallimg i {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+.smallimg i img {
+    width: 100%;
+}
+.links {
+    height: 30px;
+    text-align: center;
+}
+.links a {
+    display: inline-block;
+    padding:4px 14px;
+    color: #555;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 12.5px;
+    cursor: pointer;
+}
+.links a:hover {
+    border: 1px solid #ff2741;
+    color: #ff2741;
+}
+.text {
+    font-size: 14px;
+    line-height: 30px;
+}
+.text a {
+    color: #5b92e1;
+    cursor: pointer;
+}
+.text a i {
+    display: inline-block;
+    width: 10px;
+    height: 20px;
+    font-family: 'icomoon';
+}
+.ytime {
+    color: #999;
+    margin-bottom: 20px;
+}
+.ytime i {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+    font-family: 'icomoon'; 
+}
+.bottom-info {
+    width: 500px;
+    height: 48px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    margin-bottom: 16px;
+}
+.bottom-info a {
+    display: inline-block;
+}
+.bottom-info i {
+    display: inline-block;
+    width: 28px;   
+    vertical-align: middle;
+    height: 28px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    margin:  10px;
+}
+.longstring {
+    display: inline-block;
+    width: 3px;
+    height: 19px;
+    margin-left: 20px;
+    background-color: #ccc;
+}
+.share {
+    line-height: 48px;
+    font-size: 14px;
+}
+.share a {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    border-radius: 13px;
+    margin-right: 6px;
+}
+
+
+
+.y-tip {
+    width: 500px;
+    height: 240px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.y-tip i {
+    display: inline-block;
+    width: 5px;
+    height: 16px;
+    background-color: #ff2741;
+    margin-right: 7px;
+}
+.comment {
+    margin:15px 0 0 15px;
+    padding-bottom:15px; 
+}
+.comment  i {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+.comment  i img {
+    width: 100%;
+}
+.comment a {
+    font-size: 14px;
+}
+.comment span {
+    font-size: 10px;
+}
+.reply  {
+    font-size: 14px;
+    font-weight: 400;
+    color: #555
+}
+.reply em {
+    display: inline-block;
+    /* background-color: #ccc; */
+    width: 16px;
+    font-family: 'icomoon'; 
+    height: 16px;
+}
+.y-comment{
+    font-weight: normal;
+    font-size: 14px;
+    margin-left: 45px;
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+}
+.foot {
+    text-align: center;
+    height: 60px;
+}
+.foot a {
+    color: #5b92e1;
+}
+
+
+.y-author {
+    width: 320px;
+    height: 176px;
+    border: 1px solid #eee;
+    margin-top: 20px; 
+}
+.author {
+    padding: 10px 0 10px 20px;
+    border-bottom: 1px solid #eee;
+}
+.portrait {
+    margin: 10px 20px 0;
+    height: 56px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+.tximg {
+    margin-right: 20px;
+}
+.tximg i {
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    border: 1px solid #ccc; 
+    border-radius: 50%;
+    overflow: hidden;
+}
+.portrait span {
+    color: #ccc;
+    font-size: 14px;
+}
+.portrait-b {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+}
+.note {
+    margin-left: 20px;
+    width: 86px;
+}
+.fans,
+.collect {
+    width: 86px;
+}
+.right-b {
+    height: 475px;
+    width: 320px;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+}
+.correlation {
+    padding: 10px 20px; 
+    border-bottom: 1px solid #ddd;
+}
+.inner {
+    height: 400px;
+    margin-left: 20px;
+    border-bottom: 1px solid #ddd;
+    overflow-y:scroll;
+}
+.inner li {
+    height: 80px;
+    margin: 10px 0;
+}
+.inner li span {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+.inner li span img {
+    width: 100%;
+}
+.inner-r {
+    width: 190px;
+    font-size: 14px;
+}
+.inner-r  a {
+    display: block;
+    height: 34px;  
+}
+.inner-r i {
+    display: inline-block;
+    margin: 20px 10px 0 0; 
+    font-family: 'icomoon';
+}
+.more {
+    line-height: 30px;
+    text-align: center;
+    height: 30px;
+}
+.fix {
+    position: fixed;
+    top: 10px;
+    left: 862px;
+}

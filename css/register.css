@@ -1,0 +1,257 @@
+body {
+    background: #eee;
+}
+.xyl_psge {
+    width: 960px;
+    margin: 0 auto;
+}
+.xyl_head {
+    background: #dfe4ea;
+    border-bottom: 1px solid #e6ebef;
+}
+.xyl_header {
+    background-color: #fff;
+    clear: both;
+    border-bottom: 1px solid #d8dbe0;
+}
+.xyl_logo {
+    width: 480px;
+    float: left;
+    overflow: hidden;
+}
+.xyl_logo img {
+    display: inline-block;
+    width: auto !important;
+    height: 40px !important;
+    margin: 16px 0 0 30px !important;
+}
+.xyl_right {
+    width: 400px;
+    float: right;
+    font-size: 12px;
+    height: 80px;
+    line-height: 80px;
+    margin-right: 65px;
+    text-align: right;
+}
+.xyl_right a {
+    color: #64a8dc;
+}
+.xyl_right em {
+    font-style: normal;
+    height: 12px;
+    color: #bcbcbc;
+    padding: 0 5px;
+}
+.map {
+    padding-top: 45px;
+    padding-bottom: 173px;
+    background: url(../img/bacimage.jpg) no-repeat right bottom;
+    background-color: #dee5ed;
+}
+.xyl_centre {
+    padding: 0;
+    width: 700px;
+    margin: auto;
+    position: relative;
+    border: 1px solid #c5cace;
+    border-radius: 1px;
+    background-color: #fff;
+}
+.login_left {
+    float: left;
+    width: 340px;
+    padding: 30px 0 30px 30px;
+    border-right: 1px dashed #e4ebf0;
+}
+.xyl_mid {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px dashed #e4ebf0;
+    text-align: center;
+    color: #9aa8b3;
+    font-size: 16px;
+    left: 350px;
+    top: 160px;
+}
+.xyl_cph {
+    font-size: 18px;
+    font-weight: bold;
+    color: #475966;
+    border-left: none;
+    padding-bottom: 4px;
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    cursor: pointer;
+}
+.dj {
+    color: #1687d9;
+    border-bottom: 2px solid #1687d9;
+}
+.xyl_midf {
+    height: 6px;
+    width: 6px;
+    border-radius: 50%;
+    background: #e4ebf0;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.xyl_u1 {
+    padding-top: 0;
+}
+.xyl_u1 li {
+    font-size: 14px;
+    color: #555;
+    margin-top: 16px;
+}
+.xyl_spa {
+    text-align: left;
+    display: inline-block;
+    font-size: 14px;
+    color: #9aa8b3;
+    font-weight: 400;
+}
+.xyl_box{
+    border: 0;
+    border-bottom: 1px solid #e4ebf0;
+    margin-left: 0;
+    width: 250px;
+    padding-left: 0;
+}
+.xyl_spn {
+    padding: 0;
+    margin-top: 9px;
+    color: #f17f7f;
+    font-size: 12px;
+    display: block;
+}
+.next {
+    font-size: 14px;
+    color: #475966;
+    margin-top: 22px;
+    font-weight: 400;
+    height: 30px;
+    line-height: 14px;
+}
+.remember {
+    vertical-align: bottom;
+    color: #666;
+}
+.xyl_find {
+    color: #475966;
+    margin-left: 120px;
+}
+.xyl_dl {
+    background: #1687d9;
+    width: 300px;
+    height: 44px;
+    border-radius: 2px;
+    display: inline-block;
+    padding-left: 0;
+    line-height: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+.xyl_di {
+    display: inline-block;
+    margin-left: 0;
+    border-bottom: 1px solid #e4ebf0;
+    height: 31px;
+}
+.xyl_imp {
+    border: 0;
+    width: 215px;
+}
+.xyl_yzm {
+    display: inline-block;
+    width: 80px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 2px;
+    background: #b9dbf3;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+.account {
+    width: auto;
+    float: right;
+    color: #666;
+}
+.xyl_h {
+    margin-top: 50px;
+    margin-right: 85px;
+    font-size: 14px;
+    color: #9aa8b3;
+    letter-spacing: 1.75px;
+    font-weight: normal;
+}
+.xyl_logos {
+    text-align: left;
+    margin-top: 20px;
+}
+.xyl_xl {
+    display: inline-block;
+    width: auto;
+    height: 20px;
+    padding-top: 3px;
+    padding-right: 9px;
+    padding-left: 30px;
+    background: url(../img/sinalogo.jpg) 0 1px no-repeat;
+    font: normal 12px 宋体;
+    color: #656565;
+    vertical-align: top;
+}
+.xyl_qq {
+    display: inline-block;
+    width: auto;
+    height: 20px;
+    padding-top: 3px;
+    background: url(../img/qqlogo.jpg) no-repeat;
+    padding-left: 22px;
+    font: normal 12px 宋体;
+    color: #656565;
+    vertical-align: top;
+}
+.xyl_zc {
+    margin-top: 160px;
+    font-size: 16px;
+    color: #1687d9;
+    width: 250px;
+}
+.xyl_z {
+    padding-left: 45px;
+    color: #64a8dc;
+    text-decoration: none;
+}
+.xyl_footer {
+    height: 40px;
+    line-height: 40px;
+    color: #aaa;
+    font-size: 12px;
+    border-top: 1px solid #d3d3d3;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+.xyl_a {
+    display: inline-block;
+    text-decoration: none;
+    height: 20px;
+    line-height: 20px;
+    color: #AAAAAA;
+}
+.xyl_a img {
+    display: inline-block;
+    width: 18px;
+    height: 20px;
+}
